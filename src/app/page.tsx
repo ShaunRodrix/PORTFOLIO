@@ -624,7 +624,7 @@ export default function Portfolio() {
               {/* BCA - Left Side */}
               <div className="relative grid grid-cols-2 gap-6 items-center">
                 <div className="bg-black text-white rounded-lg shadow-lg hover:shadow-xl transition-all duration-300 p-5 text-right">
-                  <h3 className="text-xl font-bold mb-2">Bachelor of Science (BCA)</h3>
+                  <h3 className="text-xl font-bold mb-2">Bachelor of Science (BSc)</h3>
                   <p className="text-base text-gray-200 mb-2">St. Aloysius University, Mangalore</p>
                   <span className="text-sm font-semibold text-gray-300">2020 - 2023</span>
                 </div>
