@@ -602,7 +602,7 @@ export default function Portfolio() {
       <section id="education" className="py-20 px-6 bg-gradient-to-br from-gray-50 to-white">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-4xl font-bold mb-4 text-center">Education</h2>
-          <p className="text-center text-gray-600 mb-12">My Academic Journey</p>
+          <p className="text-center text-gray-600 mb-12"></p>
           
           <div className="relative">
             {/* Vertical Timeline Line */}
